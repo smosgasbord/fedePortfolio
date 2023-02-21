@@ -1,37 +1,66 @@
 {
   ":name": "CMS para Tropical Lluvioso",
-  "properties": {
       "has": {
-          ":type": "object",
-          "properties": {
-              ":name": {
-                  ":type": "line", ":richtext":true,
-                  ":name": ":name",
-                  "description": "The SEO title of the page, for web crawlers"
+              "title": {
+                  ":type": "line"
               },
               "stills": {
-                  ":type": "array",
                   ":name": "Stills",
-                  "items": {
-                      ":type": "line", ":richtext":true
+                  ":items": {
+                      ":type": "line"
                   }
               },
               "text": {
                   ":type": "line", ":richtext":true,
                   ":name": "text"
-              },
-              "link": {
-                  ":type": "line", ":richtext":true,
-                  ":name": "link"
               }
+          },
+          "about": {
+            "title": {
+                ":type": "line"
+            },
+            "text": {
+                ":type": "line", ":richtext":true,
+                ":name": "text"
+            },
+            "link": {
+                ":type": "line",
+                ":name": "link"
+            }
+        },
+        "strategic-comm": {
+          "title": {
+              ":type": "line"
+          },
+          "stills": {
+              ":name": "Stills",
+              ":items": {
+                  ":type": "line"
+              }
+          },
+          "text": {
+              ":type": "line", ":richtext":true,
+              ":name": "text"
+          },
+          "link": {
+              ":type": "line",
+              ":name": "link"
           }
       },
-      "spp": {
-          ":type": "object",
-          "properties": {
-              "projects": {
-                  ":type": "object",
-                  "properties": {
+      "contact": {
+        "title": {
+            ":type": "line"
+        },
+        "text": {
+            ":type": "line", ":richtext":true,
+            ":name": "text"
+        },
+        "link": {
+            ":type": "line",
+            ":name": "email"
+        }
+    },
+      "screenwriting": { "projects": {
                       "sinopsis": {
                           ":type": "line", ":richtext":true,
                           ":name": "sinopsis"
@@ -41,50 +70,100 @@
                           ":name": "ficha"
                       },
                       "links": {
-                          ":type": "array",
                           ":name": "links",
-                          "items": {
-                              ":type": "line", ":richtext":true
+                          ":items": {
+                              ":type": "line"
                           }
                       },
                       "trailer": {
-                          ":type": "line", ":richtext":true,
+                          ":type": "line",
                           ":name": "trailer"
                       },
                       "galeria": {
                           ":type": "array",
                           ":name": "galeria",
                           "items": {
-                              ":type": "line", ":richtext":true
+                              ":type": "line"
                           }
                       }
                   },
-                  ":name": "projects"
+                  ":name": "sw-projects"
+              },
+              "production": { "projects": {
+                "sinopsis": {
+                    ":type": "line", ":richtext":true,
+                    ":name": "sinopsis"
+                },
+                "ficha": {
+                    ":type": "line", ":richtext":true,
+                    ":name": "ficha"
+                },
+                "links": {
+                    ":name": "links",
+                    ":items": {
+                        ":type": "line"
+                    }
+                },
+                "trailer": {
+                    ":type": "line",
+                    ":name": "trailer"
+                },
+                "galeria": {
+                    ":type": "array",
+                    ":name": "galeria",
+                    "items": {
+                        ":type": "line"
+                    }
+                }
+            },
+            ":name": "prod-projects"
+        },
+        "public-broadcasting": { "projects": {
+          "sinopsis": {
+              ":type": "line", ":richtext":true,
+              ":name": "sinopsis"
+          },
+          "ficha": {
+              ":type": "line", ":richtext":true,
+              ":name": "ficha"
+          },
+          "links": {
+              ":name": "links",
+              ":items": {
+                  ":type": "line"
               }
           },
-          ":name": "SPP"
+          "trailer": {
+              ":type": "line",
+              ":name": "trailer"
+          },
+          "galeria": {
+              ":type": "array",
+              ":name": "galeria",
+              "items": {
+                  ":type": "line"
+              }
+          }
       },
+      ":name": "pb-projects"
+  },
       "socials": {
-          ":type": "object",
-          "properties": {
               "instagram": {
-                  ":type": "line", ":richtext":true,
+                  ":type": "line",
                   ":name": "instagram"
               },
               "facebook": {
-                  ":type": "line", ":richtext":true,
+                  ":type": "line",
                   ":name": "facebook"
               },
               "email": {
-                  ":type": "line", ":richtext":true,
+                  ":type": "line",
                   ":name": "email"
               },
               "linkedin": {
-                  ":type": "line", ":richtext":true,
+                  ":type": "line",
                   ":name": "linkedin"
               }
           },
-          ":name": "Socials"
-      }
+          ":name": "Social Links"
   }
-}
