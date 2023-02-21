@@ -70,7 +70,6 @@
   },
   "screenwriting": {
     ":items": {
-      "projects": {
         "tituloProyecto":{
         ":type":"line"
       },
@@ -105,11 +104,9 @@
         }
       },
       ":name": "sw-projects"
-    }
-  },
+    },
   "production": {
     ":items": {
-      "projects": {
         "tituloProyecto":{
           ":type":"line"
         },
@@ -144,11 +141,9 @@
         }
       },
       ":name": "prod-projects"
-    }
   },
   "public-broadcasting": {
     ":items": {
-      "projects": {
         "tituloProyecto":{
           ":type":"line"
         },
@@ -181,7 +176,6 @@
             }
           }
         }
-      }
     },
     ":name": "pb-projects"
   },
