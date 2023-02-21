@@ -1,168 +1,197 @@
 {
   ":name": "CMS para Tropical Lluvioso",
-      "home": {
-              "title": {
-                  ":type": "line"
-              },
-              "stills": {
-                  ":name": "Stills",
-                  ":items": {
-                    "image": {":type": "image"}
-                  }
-              },
-              "text": {
-                  ":type": "line", ":richtext":true,
-                  ":name": "text"
-              }
-          },
-          "about": {
-            "title": {
-                ":type": "line"
-            },
-            "text": {
-                ":type": "line", ":richtext":true,
-                ":name": "text"
-            },
-            "link": {
-                ":type": "line",
-                ":name": "link"
-            }
-        },
-        "strategic-comm": {
-          "title": {
-              ":type": "line"
-          },
-          "stills": {
-              ":name": "Stills",
-              ":items": {
-                    "image": {":type": "image"}
-                  }
-          },
-          "text": {
-              ":type": "line", ":richtext":true,
-              ":name": "text"
-          },
-          "link": {
-              ":type": "line",
-              ":name": "link"
-          }
-      },
-      "contact": {
-        "title": {
-            ":type": "line"
-        },
-        "text": {
-            ":type": "line", ":richtext":true,
-            ":name": "text"
-        },
-        "link": {
-            ":type": "line",
-            ":name": "email"
-        }
+  "home": {
+    "title": {
+      ":type": "line"
     },
-      "screenwriting": { "projects": {
-                      "sinopsis": {
-                          ":type": "line", ":richtext":true,
-                          ":name": "sinopsis"
-                      },
-                      "ficha": {
-                          ":type": "line", ":richtext":true,
-                          ":name": "ficha"
-                      },
-                      "links": {
-                          ":name": "links",
-                          ":items": {
-                              ":type": "line"
-                          }
-                      },
-                      "trailer": {
-                          ":type": "line",
-                          ":name": "trailer"
-                      },
-                      "galeria": {
-                          ":type": "array",
-                          ":name": "galeria",
-                          ":items": {
-                            "image": {":type": "image"}
-                          }
-                      }
-                  },
-                  ":name": "sw-projects"
-              },
-              "production": { "projects": {
-                "sinopsis": {
-                    ":type": "line", ":richtext":true,
-                    ":name": "sinopsis"
-                },
-                "ficha": {
-                    ":type": "line", ":richtext":true,
-                    ":name": "ficha"
-                },
-                "links": {
-                    ":name": "links",
-                    ":items": {
-                        ":type": "line"
-                    }
-                },
-                "trailer": {
-                    ":type": "line",
-                    ":name": "trailer"
-                },
-                "galeria": {
-                    ":type": "array",
-                    ":name": "galeria",
-                    ":items": {
-                      "image": {":type": "image"}
-                    }
-                }
-            },
-            ":name": "prod-projects"
-        },
-        "public-broadcasting": { "projects": {
-          "sinopsis": {
-              ":type": "line", ":richtext":true,
-              ":name": "sinopsis"
-          },
-          "ficha": {
-              ":type": "line", ":richtext":true,
-              ":name": "ficha"
-          },
-          "links": {
-              ":name": "links",
-              ":items": {
-                  ":type": "line"
-              }
-          },
-          "trailer": {
-              ":type": "line",
-              ":name": "trailer"
-          },
-          "galeria": {
-              ":type": "array",
-              ":name": "galeria",
-              ":items": {
-                    "image": {":type": "image"}
-                  }
-          }
-      },
-      ":name": "pb-projects"
+    "stills": {
+      ":name": "Stills",
+      ":items": {
+        "image": {
+          ":type": "image"
+        }
+      }
+    },
+    "text": {
+      ":type": "line",
+      ":richtext": true,
+      ":name": "text"
+    }
   },
-      "socials": {
-              "instagram": {
-                  ":type": "line",
-                  ":name": "instagram"
-              },
-              "facebook": {
-                  ":type": "line",
-                  ":name": "facebook"
-              },
-              "email": {
-                  ":type": "line",
-                  ":name": "email"
-              },
-              "linkedin": {
-                  ":type": "line",
-                  ":name": "linkedin"
-              }
+  "about": {
+    "title": {
+      ":type": "line"
+    },
+    "text": {
+      ":type": "line",
+      ":richtext": true,
+      ":name": "text"
+    },
+    "link": {
+      ":type": "line",
+      ":name": "link"
+    }
+  },
+  "strategic-comm": {
+    "title": {
+      ":type": "line"
+    },
+    "stills": {
+      ":name": "Stills",
+      ":items": {
+        "image": {
+          ":type": "image"
+        }
+      }
+    },
+    "text": {
+      ":type": "line",
+      ":richtext": true,
+      ":name": "text"
+    },
+    "link": {
+      ":type": "line",
+      ":name": "link"
+    }
+  },
+  "contact": {
+    "title": {
+      ":type": "line"
+    },
+    "text": {
+      ":type": "line",
+      ":richtext": true,
+      ":name": "text"
+    },
+    "link": {
+      ":type": "line",
+      ":name": "email"
+    }
+  },
+  "screenwriting": {
+    ":items": {
+      "projects": {
+        "sinopsis": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "sinopsis"
+        },
+        "ficha": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "ficha"
+        },
+        "links": {
+          ":name": "links",
+          ":items": {
+            ":type": "line"
           }
+        },
+        "trailer": {
+          ":type": "line",
+          ":name": "trailer"
+        },
+        "galeria": {
+          ":type": "array",
+          ":name": "galeria",
+          ":items": {
+            "image": {
+              ":type": "image"
+            }
+          }
+        }
+      },
+      ":name": "sw-projects"
+    }
+  },
+  "production": {
+    ":items": {
+      "projects": {
+        "sinopsis": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "sinopsis"
+        },
+        "ficha": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "ficha"
+        },
+        "links": {
+          ":name": "links",
+          ":items": {
+            ":type": "line"
+          }
+        },
+        "trailer": {
+          ":type": "line",
+          ":name": "trailer"
+        },
+        "galeria": {
+          ":type": "array",
+          ":name": "galeria",
+          ":items": {
+            "image": {
+              ":type": "image"
+            }
+          }
+        }
+      },
+      ":name": "prod-projects"
+    }
+  },
+  "public-broadcasting": {
+    ":items": {
+      "projects": {
+        "sinopsis": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "sinopsis"
+        },
+        "ficha": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "ficha"
+        },
+        "links": {
+          ":name": "links",
+          ":items": {
+            ":type": "line"
+          }
+        },
+        "trailer": {
+          ":type": "line",
+          ":name": "trailer"
+        },
+        "galeria": {
+          ":type": "array",
+          ":name": "galeria",
+          ":items": {
+            "image": {
+              ":type": "image"
+            }
+          }
+        }
+      }
+    },
+    ":name": "pb-projects"
+  },
+  "socials": {
+    "instagram": {
+      ":type": "line",
+      ":name": "instagram"
+    },
+    "facebook": {
+      ":type": "line",
+      ":name": "facebook"
+    },
+    "email": {
+      ":type": "line",
+      ":name": "email"
+    },
+    "linkedin": {
+      ":type": "line",
+      ":name": "linkedin"
+    }
   }
+}
