@@ -86,7 +86,9 @@
         "links": {
           ":name": "links",
           ":items": {
-            ":type": "line"
+            "link": {
+              ":type": "line"
+            }
           }
         },
         "trailer": {
@@ -123,7 +125,9 @@
         "links": {
           ":name": "links",
           ":items": {
-            ":type": "line"
+            "link": {
+              ":type": "line"
+            }
           }
         },
         "trailer": {
@@ -160,7 +164,9 @@
         "links": {
           ":name": "links",
           ":items": {
-            ":type": "line"
+            "link": {
+              ":type": "line"
+            }
           }
         },
         "trailer": {
