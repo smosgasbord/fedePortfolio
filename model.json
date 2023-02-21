@@ -1,19 +1,9 @@
 {
-  "$schema": "http://json-schema.org/draft-06/schema#",
-  ":type": "object",
-  ":name": "Tropical Lluvioso",
+  ":name": "CMS para Tropical Lluvioso",
   "properties": {
       "has": {
           ":type": "object",
           "properties": {
-              "key": {
-                  ":type": "line", ":richtext":true,
-                  ":name": "Key"
-              },
-              "search_enabled": {
-                  ":type": "boolean",
-                  ":name": "Search Enabled"
-              },
               ":name": {
                   ":type": "line", ":richtext":true,
                   ":name": ":name",
@@ -39,10 +29,6 @@
       "spp": {
           ":type": "object",
           "properties": {
-              "search_enabled": {
-                  ":type": "boolean",
-                  ":name": "Search Enabled"
-              },
               "projects": {
                   ":type": "object",
                   "properties": {
