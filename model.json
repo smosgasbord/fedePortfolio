@@ -71,6 +71,9 @@
   "screenwriting": {
     ":items": {
       "projects": {
+        "tituloProyecto":{
+        ":type":"line"
+      },
         "sinopsis": {
           ":type": "line",
           ":richtext": true,
@@ -107,6 +110,9 @@
   "production": {
     ":items": {
       "projects": {
+        "tituloProyecto":{
+          ":type":"line"
+        },
         "sinopsis": {
           ":type": "line",
           ":richtext": true,
@@ -143,6 +149,9 @@
   "public-broadcasting": {
     ":items": {
       "projects": {
+        "tituloProyecto":{
+          ":type":"line"
+        },
         "sinopsis": {
           ":type": "line",
           ":richtext": true,
