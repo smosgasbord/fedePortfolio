@@ -7,8 +7,7 @@
               "stills": {
                   ":name": "Stills",
                   ":items": {
-                    "imageURL": {":type": "line"},
-                    "imageFieldExample": {":type": "image"}
+                    "image": {":type": "image"}
                   }
               },
               "text": {
