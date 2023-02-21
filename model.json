@@ -7,7 +7,7 @@
               "stills": {
                   ":name": "Stills",
                   ":items": {
-                      ":type": "line"
+                    "imageURL": {":type": "line"}
                   }
               },
               "text": {
@@ -35,7 +35,7 @@
           "stills": {
               ":name": "Stills",
               ":items": {
-                  ":type": "line"
+                "imageURL": {":type": "line"}
               }
           },
           "text": {
@@ -82,8 +82,8 @@
                       "galeria": {
                           ":type": "array",
                           ":name": "galeria",
-                          "items": {
-                              ":type": "line"
+                          ":items": {
+                            "imageURL": {":type": "line"}
                           }
                       }
                   },
@@ -111,8 +111,8 @@
                 "galeria": {
                     ":type": "array",
                     ":name": "galeria",
-                    "items": {
-                        ":type": "line"
+                    ":items": {
+                      "imageURL": {":type": "line"}
                     }
                 }
             },
@@ -140,8 +140,8 @@
           "galeria": {
               ":type": "array",
               ":name": "galeria",
-              "items": {
-                  ":type": "line"
+              ":items": {
+                "imageURL": {":type": "line"}
               }
           }
       },
@@ -164,6 +164,5 @@
                   ":type": "line",
                   ":name": "linkedin"
               }
-          },
-          ":name": "Social Links"
+          }
   }
