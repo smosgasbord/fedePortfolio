@@ -35,8 +35,8 @@
           "stills": {
               ":name": "Stills",
               ":items": {
-                "imageURL": {":type": "line"}
-              }
+                    "image": {":type": "image"}
+                  }
           },
           "text": {
               ":type": "line", ":richtext":true,
@@ -83,7 +83,7 @@
                           ":type": "array",
                           ":name": "galeria",
                           ":items": {
-                            "imageURL": {":type": "line"}
+                            "image": {":type": "image"}
                           }
                       }
                   },
@@ -112,7 +112,7 @@
                     ":type": "array",
                     ":name": "galeria",
                     ":items": {
-                      "imageURL": {":type": "line"}
+                      "image": {":type": "image"}
                     }
                 }
             },
@@ -141,8 +141,8 @@
               ":type": "array",
               ":name": "galeria",
               ":items": {
-                "imageURL": {":type": "line"}
-              }
+                    "image": {":type": "image"}
+                  }
           }
       },
       ":name": "pb-projects"
