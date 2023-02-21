@@ -1,6 +1,6 @@
 {
   ":name": "CMS para Tropical Lluvioso",
-      "has": {
+      "home": {
               "title": {
                   ":type": "line"
               },
