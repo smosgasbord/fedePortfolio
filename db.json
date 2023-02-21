@@ -1,52 +1,210 @@
 {
+  ":name": "CMS para Tropical Lluvioso",
+  ":locales": [
+    "en",
+    "es"
+  ],
   "home": {
+    "title": {
+      ":type": "line"
+    },
     "stills": {
-      "image": "imageurl"
+      ":name": "Stills",
+      ":items": {
+        "image": {
+          ":type": "image"
+        }
+      }
+    },
+    "text": {
+      ":type": "line",
+      ":richtext": true,
+      ":name": "text"
     }
   },
   "about": {
-    "text": "description"
-  },
-  "screenwriting": {
-    "projects": {
-      "project": {
-        "sinopsis": "textoSinopsis",
-        "ficha": "textoFicha",
-        "still": "imageurl",
-        "links": "url",
-        "trailer": "embedurl"
-      }
+    "title": {
+      ":type": "line"
+    },
+    "text": {
+      ":type": "line",
+      ":richtext": true,
+      ":name": "text"
+    },
+    "link": {
+      ":type": "line",
+      ":name": "link"
     }
   },
-  "production": {
-    "projects": {
-      "project": {
-        "sinopsis": "textoSinopsis",
-        "ficha": "textoFicha",
-        "still": ["imageurl", "imageurl"],
-        "links": "url",
-        "trailer": "embedurl"
+  "strategic-comm": {
+    "title": {
+      ":type": "line"
+    },
+    "stills": {
+      ":name": "Stills",
+      ":items": {
+        "image": {
+          ":type": "image"
+        }
       }
+    },
+    "text": {
+      ":type": "line",
+      ":richtext": true,
+      ":name": "text"
+    },
+    "link": {
+      ":type": "line",
+      ":name": "link"
     }
-  },
-  "public-broadcast": {
-    "projects": {
-      "project": {
-        "sinopsis": "textoSinopsis",
-        "ficha": "textoFicha",
-        "still": "imageurl",
-        "links": "url",
-        "trailer": "embedurl"
-      }
-    }
-  },
-  "strategic-communications": {
-    "stills": ["images"],
-    "description": "textoStrategicComm"
   },
   "contact": {
-    "email": "correo",
-    "description": "contact"
+    "title": {
+      ":type": "line"
+    },
+    "text": {
+      ":type": "line",
+      ":richtext": true,
+      ":name": "text"
+    },
+    "link": {
+      ":type": "line",
+      ":name": "email"
+    }
+  },
+  "screenwriting": {
+    ":items": {
+        "tituloProyecto":{
+        ":type":"line"
+      },
+        "sinopsis": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "sinopsis"
+        },
+        "ficha": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "ficha"
+        },
+        "links": {
+          ":name": "links",
+          ":items": {
+            "link": {
+              ":type": "line"
+            }
+          }
+        },
+        "trailer": {
+          ":type": "line",
+          ":name": "trailer"
+        },
+        "galeria": {
+          ":type": "array",
+          ":name": "galeria",
+          ":items": {
+            "image": {
+              ":type": "image"
+            }
+          }
+        }
+      },
+      ":name": "sw-projects"
+    },
+  "production": {
+    ":items": {
+        "tituloProyecto":{
+          ":type":"line"
+        },
+        "sinopsis": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "sinopsis"
+        },
+        "ficha": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "ficha"
+        },
+        "links": {
+          ":name": "links",
+          ":items": {
+            "link": {
+              ":type": "line"
+            }
+          }
+        },
+        "trailer": {
+          ":type": "line",
+          ":name": "trailer"
+        },
+        "galeria": {
+          ":type": "array",
+          ":name": "galeria",
+          ":items": {
+            "image": {
+              ":type": "image"
+            }
+          }
+        }
+      },
+      ":name": "prod-projects"
+  },
+  "public-broadcasting": {
+    ":items": {
+        "tituloProyecto":{
+          ":type":"line"
+        },
+        "sinopsis": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "sinopsis"
+        },
+        "ficha": {
+          ":type": "line",
+          ":richtext": true,
+          ":name": "ficha"
+        },
+        "links": {
+          ":name": "links",
+          ":items": {
+            "link": {
+              ":type": "line"
+            }
+          }
+        },
+        "trailer": {
+          ":type": "line",
+          ":name": "trailer"
+        },
+        "galeria": {
+          ":type": "array",
+          ":name": "galeria",
+          ":items": {
+            "image": {
+              ":type": "image"
+            }
+          }
+        }
+    },
+    ":name": "pb-projects"
+  },
+  "socials": {
+    "instagram": {
+      ":type": "line",
+      ":name": "instagram"
+    },
+    "facebook": {
+      ":type": "line",
+      ":name": "facebook"
+    },
+    "email": {
+      ":type": "line",
+      ":name": "email"
+    },
+    "linkedin": {
+      ":type": "line",
+      ":name": "linkedin"
+    }
   }
 }
-
