@@ -82,19 +82,19 @@
           ":type": "object",
           "properties": {
               "instagram": {
-                  ":type": "line", ":richtext":true,,
+                  ":type": "line", ":richtext":true,
                   ":name": "instagram"
               },
               "facebook": {
-                  ":type": "line", ":richtext":true,,
+                  ":type": "line", ":richtext":true,
                   ":name": "facebook"
               },
               "email": {
-                  ":type": "line", ":richtext":true,,
+                  ":type": "line", ":richtext":true,
                   ":name": "email"
               },
               "linkedin": {
-                  ":type": "line", ":richtext":true,,
+                  ":type": "line", ":richtext":true,
                   ":name": "linkedin"
               }
           },
