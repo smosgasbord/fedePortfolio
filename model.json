@@ -1,5 +1,9 @@
 {
   ":name": "CMS para Tropical Lluvioso",
+  ":locales": [
+    "en",
+    "es"
+  ],
   "home": {
     "title": {
       ":type": "line"
