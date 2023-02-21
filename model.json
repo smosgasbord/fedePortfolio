@@ -1,22 +1,104 @@
 {
-  ":name": "CMS para el Portfolio de Fede",
-  "custom-field": {
-    ":description": "This example text is used as a description.",
-    ":type": "line"
-  },
-  "custom-object": {
-    "custom-line": {
-      ":type": "line"
-    },
-    "custom-text": {
-      ":type": "text"
-    }
-  },
-  "custom-list": {
-    ":items": {
-      "custom-list-item": {
-        ":type": "line"
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  ":type": "object",
+  ":name": "Tropical Lluvioso",
+  "properties": {
+      "has": {
+          ":type": "object",
+          "properties": {
+              "key": {
+                  ":type": "line", ":richtext":true,
+                  ":name": "Key"
+              },
+              "search_enabled": {
+                  ":type": "boolean",
+                  ":name": "Search Enabled"
+              },
+              ":name": {
+                  ":type": "line", ":richtext":true,
+                  ":name": ":name",
+                  "description": "The SEO title of the page, for web crawlers"
+              },
+              "stills": {
+                  ":type": "array",
+                  ":name": "Stills",
+                  "items": {
+                      ":type": "line", ":richtext":true
+                  }
+              },
+              "text": {
+                  ":type": "line", ":richtext":true,
+                  ":name": "text"
+              },
+              "link": {
+                  ":type": "line", ":richtext":true,
+                  ":name": "link"
+              }
+          }
+      },
+      "spp": {
+          ":type": "object",
+          "properties": {
+              "search_enabled": {
+                  ":type": "boolean",
+                  ":name": "Search Enabled"
+              },
+              "projects": {
+                  ":type": "object",
+                  "properties": {
+                      "sinopsis": {
+                          ":type": "line", ":richtext":true,
+                          ":name": "sinopsis"
+                      },
+                      "ficha": {
+                          ":type": "line", ":richtext":true,
+                          ":name": "ficha"
+                      },
+                      "links": {
+                          ":type": "array",
+                          ":name": "links",
+                          "items": {
+                              ":type": "line", ":richtext":true
+                          }
+                      },
+                      "trailer": {
+                          ":type": "line", ":richtext":true,
+                          ":name": "trailer"
+                      },
+                      "galeria": {
+                          ":type": "array",
+                          ":name": "galeria",
+                          "items": {
+                              ":type": "line", ":richtext":true
+                          }
+                      }
+                  },
+                  ":name": "projects"
+              }
+          },
+          ":name": "SPP"
+      },
+      "socials": {
+          ":type": "object",
+          "properties": {
+              "instagram": {
+                  ":type": "line", ":richtext":true,,
+                  ":name": "instagram"
+              },
+              "facebook": {
+                  ":type": "line", ":richtext":true,,
+                  ":name": "facebook"
+              },
+              "email": {
+                  ":type": "line", ":richtext":true,,
+                  ":name": "email"
+              },
+              "linkedin": {
+                  ":type": "line", ":richtext":true,,
+                  ":name": "linkedin"
+              }
+          },
+          ":name": "Socials"
       }
-    }
   }
 }
