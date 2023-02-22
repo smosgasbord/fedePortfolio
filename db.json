@@ -301,8 +301,16 @@
       }
     ],
     "contact": {
-      "text": "Para consultas generales, utilice el siguiente formulario de contacto."
-    }
+      "text": "Para consultas generales, utilice el siguiente formulario de contacto.",
+      "title": "Contacto"
+    },
+    "screenwriting": [
+      {
+        "tituloProyecto": "Soberane (2022)",
+        "id": "soberane",
+        "sinopsis": "Locarno Film Festival, Pardino D'Oro for Best International Short&nbsp;Hakan does not wish to return to Brazil, but doesn't know how to tell Lissy that they can no longer offer her a dreamed life outside of Cuba. Hakan grapples with indecision when Lissy discovers that they have kept from her a chance to get off the island. Out of options that allow them to stay, Hakan must accept the new person they have become in order to return home.Directed by Wara.Screenplay by Fede Blanco &amp; Wara."
+      }
+    ]
   },
   "en": {
     "home": {
@@ -603,7 +611,15 @@
       }
     ],
     "contact": {
-      "text": "For general inquiries, please use the following contact form."
-    }
+      "text": "For general inquiries, please use the following contact form.",
+      "title": "Contact"
+    },
+    "screenwriting": [
+      {
+        "id": "soberane",
+        "tituloProyecto": "Soberane (2022)",
+        "sinopsis": "Locarno Film Festival, Pardino D'Oro for Best International Short.&nbsp;Hakan does not wish to return to Brazil, but doesn't know how to tell Lissy that they can no longer offer her a dreamed life outside of Cuba. Hakan grapples with indecision when Lissy discovers that they have kept from her a chance to get off the island. Out of options that allow them to stay, Hakan must accept the new person they have become in order to return home.    Directed by Wara.   Screenplay by Fede Blanco &amp; Wara."
+      }
+    ]
   }
 }
