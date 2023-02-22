@@ -36,7 +36,7 @@
       ":name": "link"
     }
   },
-  "strategic-comm": {
+  "strategic_comm": {
     "title": {
       ":type": "line"
     },
@@ -73,6 +73,9 @@
     }
   },
   "screenwriting": {
+    "title":{
+      ":type":"line"
+    },
     ":items": {
       "id":{
           ":type":"line"
@@ -114,7 +117,9 @@
       },
       ":name": "sw-projects"
     },
-  "production": {
+  "production": {"title":{
+    ":type":"line"
+  },
     ":items": {"id":{
       ":type":"line"
   },
@@ -155,7 +160,9 @@
       },
       ":name": "prod-projects"
   },
-  "public-broadcasting": {
+  "public_broadcasting": {"title":{
+    ":type":"line"
+  },
     ":items": {"id":{
       ":type":"line"
   },
