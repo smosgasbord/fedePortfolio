@@ -75,7 +75,7 @@
   "screenwriting": {
     ":items": {
       "id":{
-          "type":"line"
+          ":type":"line"
       },
         "tituloProyecto":{
         ":type":"line"
@@ -116,7 +116,7 @@
     },
   "production": {
     ":items": {"id":{
-      "type":"line"
+      ":type":"line"
   },
         "tituloProyecto":{
           ":type":"line"
@@ -157,7 +157,7 @@
   },
   "public-broadcasting": {
     ":items": {"id":{
-      "type":"line"
+      ":type":"line"
   },
         "tituloProyecto":{
           ":type":"line"
