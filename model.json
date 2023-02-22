@@ -117,9 +117,10 @@
       },
       ":name": "sw-projects"
     },
-  "production": {"title":{
-    ":type":"line"
-  },
+  "production": {
+    "title": {
+      ":type": "line"
+    },
     ":items": {"id":{
       ":type":"line"
   },
@@ -160,9 +161,10 @@
       },
       ":name": "prod-projects"
   },
-  "public_broadcasting": {"title":{
-    ":type":"line"
-  },
+  "public_broadcasting": {
+    "title": {
+      ":type": "line"
+    },
     ":items": {"id":{
       ":type":"line"
   },
