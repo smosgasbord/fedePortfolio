@@ -188,6 +188,23 @@
             "image": {
               "provider": "uploadcare",
               "type": "image",
+              "id": "2ecf04f9-678f-4f9e-83e9-6b347e19c2a9",
+              "height": 1600,
+              "width": 2560
+            }
+          }
+        ],
+        "ficha": "Mulheres Árvore (2022)",
+        "sinopsis": "Mulheres Árvore (2022)",
+        "tituloProyecto": "Mulheres Árvore (2022)",
+        "id": "mulheres"
+      },
+      {
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
               "id": "a48b32bf-68d0-4c16-afef-c73266a0df5a",
               "height": 1600,
               "width": 2560
@@ -404,6 +421,23 @@
       "text": "Lorem ipsum chamancatualito"
     },
     "production": [
+      {
+        "tituloProyecto": "Mulheres Árvore (2022)",
+        "sinopsis": "Mulheres Árvore (2022)",
+        "ficha": "Mulheres Árvore (2022)",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "2ecf04f9-678f-4f9e-83e9-6b347e19c2a9",
+              "height": 1600,
+              "width": 2560
+            }
+          }
+        ],
+        "id": "mulheres"
+      },
       {
         "tituloProyecto": "El Salón de los Espejos (development)",
         "sinopsis": "El Salón de los Espejos (development)",
