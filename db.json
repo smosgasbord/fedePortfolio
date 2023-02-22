@@ -393,6 +393,25 @@
           }
         ]
       }
+    ],
+    "public_broadcasting": [
+      {
+        "id": "sut",
+        "tituloProyecto": "Suave un Toque",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "59a382bc-4b20-47fe-80ac-a943285a2937",
+              "height": 1365,
+              "width": 2048
+            }
+          }
+        ],
+        "sinopsis": "Political satire newscast for public broadcast.",
+        "ficha": "\"There are few things in television that can be considered a life-changing experience... This show is one of them\" (Roberto A.)\"Blessed be the pot in which a seed was planted that grew up to be the weed plant that whoever created Suave un Toque smoked from!\"&nbsp; (【Ðavïd Ʋ】)Nuevas Miradas en la Televisión Award (Quilmes University, Uruguay)Created by Fede Blanco.Showrunners: Fede Blanco &amp; Fernando Obando"
+      }
     ]
   },
   "en": {
@@ -785,6 +804,25 @@
             }
           }
         ]
+      }
+    ],
+    "public_broadcasting": [
+      {
+        "id": "sut",
+        "tituloProyecto": "Suave un Toque",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "59a382bc-4b20-47fe-80ac-a943285a2937",
+              "height": 1365,
+              "width": 2048
+            }
+          }
+        ],
+        "sinopsis": "Political satire newscast for public broadcast.",
+        "ficha": "\"There are few things in television that can be considered a life-changing experience... This show is one of them\" (Roberto A.)\"Blessed be the pot in which a seed was planted that grew up to be the weed plant that whoever created Suave un Toque smoked from!\"&nbsp; (【Ðavïd Ʋ】)Nuevas Miradas en la Televisión Award (Quilmes University, Uruguay)Created by Fede Blanco.Showrunners: Fede Blanco &amp; Fernando Obando"
       }
     ]
   }
