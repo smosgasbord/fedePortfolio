@@ -374,6 +374,25 @@
           }
         ]
       }
+    ],
+    "public-broadcasting": [
+      {
+        "id": "sut",
+        "tituloProyecto": "Suave un Toque",
+        "sinopsis": "Political satire newscast for public broadcast.\"There are few things in television that can be considered a life-changing experience... This show is one of them\" (Roberto A.)\"Blessed be the pot in which a seed was planted that grew up to be the weed plant that whoever created Suave un Toque smoked from!\"&nbsp; (【Ðavïd Ʋ】) Nuevas Miradas en la Televisión Award (Quilmes University, Uruguay)",
+        "ficha": "Created by Fede Blanco. Showrunners: Fede Blanco &amp; Fernando Obando",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "59a382bc-4b20-47fe-80ac-a943285a2937",
+              "height": 1365,
+              "width": 2048
+            }
+          }
+        ]
+      }
     ]
   },
   "en": {
@@ -744,6 +763,25 @@
               "id": "65db88ab-287d-4719-be93-64ff9001873e",
               "height": 1466,
               "width": 2865
+            }
+          }
+        ]
+      }
+    ],
+    "public-broadcasting": [
+      {
+        "id": "sut",
+        "tituloProyecto": "Suave un Toque",
+        "sinopsis": "Political satire newscast for public broadcast.\"There are few things in television that can be considered a life-changing experience... This show is one of them\" (Roberto A.)\"Blessed be the pot in which a seed was planted that grew up to be the weed plant that whoever created Suave un Toque smoked from!\"&nbsp; (【Ðavïd Ʋ】)Nuevas Miradas en la Televisión Award (Quilmes University, Uruguay)",
+        "ficha": "Created by Fede Blanco. Showrunners: Fede Blanco &amp; Fernando Obando",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "59a382bc-4b20-47fe-80ac-a943285a2937",
+              "height": 1365,
+              "width": 2048
             }
           }
         ]
