@@ -188,6 +188,23 @@
             "image": {
               "provider": "uploadcare",
               "type": "image",
+              "id": "a48b32bf-68d0-4c16-afef-c73266a0df5a",
+              "height": 1600,
+              "width": 2560
+            }
+          }
+        ],
+        "ficha": "El Salón de los Espejos (development)",
+        "sinopsis": "El Salón de los Espejos (development)",
+        "tituloProyecto": "El Salón de los Espejos (development)",
+        "id": "salonEspejos"
+      },
+      {
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
               "id": "58b72cb0-ad9b-484c-b654-94dc59ae0686",
               "height": 1476,
               "width": 2880
@@ -202,7 +219,8 @@
         "trailer": "https://youtube.com",
         "ficha": "I, ii y IiI (2018-2023)",
         "sinopsis": "I, ii y IiI (2018-2023)",
-        "tituloProyecto": "I, ii y IiI (2018-2023)"
+        "tituloProyecto": "I, ii y IiI (2018-2023)",
+        "id": "123"
       }
     ]
   },
@@ -387,6 +405,23 @@
     },
     "production": [
       {
+        "tituloProyecto": "El Salón de los Espejos (development)",
+        "sinopsis": "El Salón de los Espejos (development)",
+        "ficha": "El Salón de los Espejos (development)",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "a48b32bf-68d0-4c16-afef-c73266a0df5a",
+              "height": 1600,
+              "width": 2560
+            }
+          }
+        ],
+        "id": "salonEspejos"
+      },
+      {
         "tituloProyecto": "I, ii y IiI (2018-2023)",
         "sinopsis": "I, ii y IiI (2018-2023)",
         "ficha": "I, ii y IiI (2018-2023)",
@@ -406,7 +441,8 @@
             "link": "https://instagram.com"
           }
         ],
-        "trailer": "https://youtube.com"
+        "trailer": "https://youtube.com",
+        "id": "123"
       }
     ]
   }
