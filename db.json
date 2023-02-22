@@ -343,7 +343,7 @@
       {
         "tituloProyecto": "Soberane (2022)",
         "id": "soberane",
-        "sinopsis": "Locarno Film Festival, Pardino D'Oro for Best International Short&nbsp;Hakan does not wish to return to Brazil, but doesn't know how to tell Lissy that they can no longer offer her a dreamed life outside of Cuba. Hakan grapples with indecision when Lissy discovers that they have kept from her a chance to get off the island. Out of options that allow them to stay, Hakan must accept the new person they have become in order to return home.Directed by Wara.Screenplay by Fede Blanco &amp; Wara.",
+        "sinopsis": "Hakan does not wish to return to Brazil, but doesn't know how to tell Lissy that they can no longer offer her a dreamed life outside of Cuba. Hakan grapples with indecision when Lissy discovers that they have kept from her a chance to get off the island. Out of options that allow them to stay, Hakan must accept the new person they have become in order to return home.",
         "galeria": [
           {
             "image": {
@@ -372,7 +372,8 @@
               "width": 2865
             }
           }
-        ]
+        ],
+        "ficha": "Locarno Film Festival, Pardino D'Oro for Best International Short. Directed by Wara. Screenplay by Fede Blanco &amp; Wara."
       }
     ],
     "public-broadcasting": [
@@ -429,7 +430,10 @@
         "sinopsis": "Political satire newscast for public broadcast.",
         "ficha": "\"There are few things in television that can be considered a life-changing experience... This show is one of them\" (Roberto A.)\"Blessed be the pot in which a seed was planted that grew up to be the weed plant that whoever created Suave un Toque smoked from!\"&nbsp; (【Ðavïd Ʋ】)Nuevas Miradas en la Televisión Award (Quilmes University, Uruguay)Created by Fede Blanco.Showrunners: Fede Blanco &amp; Fernando Obando"
       }
-    ]
+    ],
+    "socials": {
+      "instagram": "https://instagram.com/tropical.lluvioso"
+    }
   },
   "en": {
     "home": {
@@ -772,7 +776,7 @@
       {
         "id": "soberane",
         "tituloProyecto": "Soberane (2022)",
-        "sinopsis": "Locarno Film Festival, Pardino D'Oro for Best International Short.&nbsp;Hakan does not wish to return to Brazil, but doesn't know how to tell Lissy that they can no longer offer her a dreamed life outside of Cuba. Hakan grapples with indecision when Lissy discovers that they have kept from her a chance to get off the island. Out of options that allow them to stay, Hakan must accept the new person they have become in order to return home.    Directed by Wara.   Screenplay by Fede Blanco &amp; Wara.",
+        "sinopsis": "Hakan does not wish to return to Brazil, but doesn't know how to tell Lissy that they can no longer offer her a dreamed life outside of Cuba. Hakan grapples with indecision when Lissy discovers that they have kept from her a chance to get off the island. Out of options that allow them to stay, Hakan must accept the new person they have become in order to return home. ",
         "galeria": [
           {
             "image": {
@@ -801,7 +805,8 @@
               "width": 2865
             }
           }
-        ]
+        ],
+        "ficha": "Locarno Film Festival, Pardino D'Oro for Best International Short. Directed by Wara. Screenplay by Fede Blanco &amp; Wara."
       }
     ],
     "public-broadcasting": [
@@ -858,6 +863,9 @@
         "sinopsis": "Political satire newscast for public broadcast.",
         "ficha": "\"There are few things in television that can be considered a life-changing experience... This show is one of them\" (Roberto A.)\"Blessed be the pot in which a seed was planted that grew up to be the weed plant that whoever created Suave un Toque smoked from!\"&nbsp; (【Ðavïd Ʋ】)Nuevas Miradas en la Televisión Award (Quilmes University, Uruguay)Created by Fede Blanco.Showrunners: Fede Blanco &amp; Fernando Obando"
       }
-    ]
+    ],
+    "socials": {
+      "instagram": "https://instagram.com/tropical.lluvioso"
+    }
   }
 }
