@@ -188,6 +188,61 @@
             "image": {
               "provider": "uploadcare",
               "type": "image",
+              "id": "202504f1-df80-4711-8402-bec3ce7196df",
+              "height": 1080,
+              "width": 1920
+            }
+          }
+        ],
+        "ficha": "El Pozo (2019)",
+        "sinopsis": "El Pozo (2019)",
+        "tituloProyecto": "El Pozo (2019)",
+        "id": "pozo"
+      },
+      {
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "8d1214a5-a392-4d48-b3f7-239f0e9ef7a6",
+              "height": 1600,
+              "width": 2560
+            }
+          }
+        ],
+        "ficha": "Sotavento (2021)",
+        "sinopsis": "Sotavento (2021)",
+        "tituloProyecto": "Sotavento (2021)",
+        "id": "sotavento"
+      },
+      {
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "9db76b35-ed11-4629-b673-f575a155f5c4",
+              "height": 1600,
+              "width": 2560
+            }
+          }
+        ],
+        "ficha": "Nara (2021)",
+        "sinopsis": "Nara (2021)",
+        "tituloProyecto": "Nara (2021)",
+        "id": "nara"
+      },
+      {
+        "id": "mulheres",
+        "tituloProyecto": "Mulheres Árvore (2022)",
+        "sinopsis": "Mulheres Árvore (2022)",
+        "ficha": "Mulheres Árvore (2022)",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
               "id": "fd30e62e-004a-4d67-9130-f66c11665d76",
               "height": 1600,
               "width": 2560
@@ -202,11 +257,7 @@
               "width": 2560
             }
           }
-        ],
-        "ficha": "Mulheres Árvore (2022)",
-        "sinopsis": "Mulheres Árvore (2022)",
-        "tituloProyecto": "Mulheres Árvore (2022)",
-        "id": "mulheres"
+        ]
       },
       {
         "galeria": [
@@ -431,6 +482,58 @@
     },
     "production": [
       {
+        "tituloProyecto": "El Pozo (2019)",
+        "sinopsis": "El Pozo (2019)",
+        "ficha": "El Pozo (2019)",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "202504f1-df80-4711-8402-bec3ce7196df",
+              "height": 1080,
+              "width": 1920
+            }
+          }
+        ],
+        "id": "pozo"
+      },
+      {
+        "tituloProyecto": "Sotavento (2021)",
+        "sinopsis": "Sotavento (2021)",
+        "ficha": "Sotavento (2021)",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "8d1214a5-a392-4d48-b3f7-239f0e9ef7a6",
+              "height": 1600,
+              "width": 2560
+            }
+          }
+        ],
+        "id": "sotavento"
+      },
+      {
+        "tituloProyecto": "Nara (2021)",
+        "sinopsis": "Nara (2021)",
+        "ficha": "Nara (2021)",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "9db76b35-ed11-4629-b673-f575a155f5c4",
+              "height": 1600,
+              "width": 2560
+            }
+          }
+        ],
+        "id": "nara"
+      },
+      {
+        "id": "mulheres",
         "tituloProyecto": "Mulheres Árvore (2022)",
         "sinopsis": "Mulheres Árvore (2022)",
         "ficha": "Mulheres Árvore (2022)",
@@ -453,8 +556,7 @@
               "width": 2560
             }
           }
-        ],
-        "id": "mulheres"
+        ]
       },
       {
         "tituloProyecto": "El Salón de los Espejos (development)",
