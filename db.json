@@ -94,7 +94,7 @@
       "title": "Nosotrxs",
       "text": "<strong>Tropical Lluvioso </strong>es un estudio de producción trans-caribeño que acompaña la gestación de relatos cinematográficos, institucionales y públicos. Hacemos películas que desafían las fronteras desde su periferia, abrazando la fluidez del género cinematográfico y negando los binarios de la ficción y el documental. Maquinamos historias con sus gestoras desde su escritura [Soberane (2022, Cuba, premio mejor cortometraje Locarno Film Festival) y Ánima (2022, Cuba, premio mejor cortometraje latinoamericano en el Festival Internacional de Cine de Mar del Plata)] y acompañándolas en su producción [Sotavento (2021, Venezuela, premio mejor cortometraje mercosureño BAFICI), Mulheres Árvore (2022, Brasil, selección oficial Rio Film Festival) y Nara (2021, Cuba, selección oficial Festival Internacional del Nuevo Cine Latinoamericano)]. Gestamos audiovisuales de interés y acceso público, como ¡Suave un Toque! (2017, Costa Rica, Premio Nuevas Miradas en la Televisión) y acompañamos la comunicación estratégica de organizaciones públicas costarricenses como la Universidad de Costa Rica y organismos internacionales como la Comisión Interamericana de Derechos Humanos. Trabajamos en los territorios ancestrales y usurpados de los pueblos de Abya Yala, incluyendo los territorios de los pueblos Bribri, Cabécar, Ngäbe-Buglé, Brunca, Brörán, Chorotega, Maleku y Huetar."
     },
-    "strategic-comm": {
+    "strategic_comm": {
       "title": "Comunicación Estratégica",
       "stills": [
         {
@@ -374,25 +374,6 @@
           }
         ],
         "ficha": "Locarno Film Festival, Pardino D'Oro for Best International Short. Directed by Wara. Screenplay by Fede Blanco &amp; Wara."
-      }
-    ],
-    "public-broadcasting": [
-      {
-        "id": "sut",
-        "tituloProyecto": "Suave un Toque",
-        "sinopsis": "Political satire newscast for public broadcast.\"There are few things in television that can be considered a life-changing experience... This show is one of them\" (Roberto A.)\"Blessed be the pot in which a seed was planted that grew up to be the weed plant that whoever created Suave un Toque smoked from!\"&nbsp; (【Ðavïd Ʋ】) Nuevas Miradas en la Televisión Award (Quilmes University, Uruguay)",
-        "ficha": "Created by Fede Blanco. Showrunners: Fede Blanco &amp; Fernando Obando",
-        "galeria": [
-          {
-            "image": {
-              "provider": "uploadcare",
-              "type": "image",
-              "id": "59a382bc-4b20-47fe-80ac-a943285a2937",
-              "height": 1365,
-              "width": 2048
-            }
-          }
-        ]
       }
     ],
     "public_broadcasting": [
