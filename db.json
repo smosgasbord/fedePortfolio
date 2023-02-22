@@ -299,7 +299,10 @@
         "tituloProyecto": "I, ii y IiI (2018-2023)",
         "id": "123"
       }
-    ]
+    ],
+    "contact": {
+      "text": "Para consultas generales, utilice el siguiente formulario de contacto."
+    }
   },
   "en": {
     "home": {
@@ -598,6 +601,9 @@
         "trailer": "https://youtube.com",
         "id": "123"
       }
-    ]
+    ],
+    "contact": {
+      "text": "For general inquiries, please use the following contact form."
+    }
   }
 }
