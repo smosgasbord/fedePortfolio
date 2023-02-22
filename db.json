@@ -180,7 +180,31 @@
         }
       ],
       "text": "Lorem ipsum chamancatualitou"
-    }
+    },
+    "production": [
+      {
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "58b72cb0-ad9b-484c-b654-94dc59ae0686",
+              "height": 1476,
+              "width": 2880
+            }
+          }
+        ],
+        "links": [
+          {
+            "link": "https://instagram.com"
+          }
+        ],
+        "trailer": "https://youtube.com",
+        "ficha": "I, ii y IiI (2018-2023)",
+        "sinopsis": "I, ii y IiI (2018-2023)",
+        "tituloProyecto": "I, ii y IiI (2018-2023)"
+      }
+    ]
   },
   "en": {
     "home": {
@@ -360,6 +384,30 @@
         }
       ],
       "text": "Lorem ipsum chamancatualito"
-    }
+    },
+    "production": [
+      {
+        "tituloProyecto": "I, ii y IiI (2018-2023)",
+        "sinopsis": "I, ii y IiI (2018-2023)",
+        "ficha": "I, ii y IiI (2018-2023)",
+        "galeria": [
+          {
+            "image": {
+              "provider": "uploadcare",
+              "type": "image",
+              "id": "58b72cb0-ad9b-484c-b654-94dc59ae0686",
+              "height": 1476,
+              "width": 2880
+            }
+          }
+        ],
+        "links": [
+          {
+            "link": "https://instagram.com"
+          }
+        ],
+        "trailer": "https://youtube.com"
+      }
+    ]
   }
 }
