@@ -74,9 +74,12 @@
   },
   "screenwriting": {
     ":items": {
+      "id":{
+          "type":"line"
+      },
         "tituloProyecto":{
         ":type":"line"
-      },
+      }, 
         "sinopsis": {
           ":type": "line",
           ":richtext": true,
@@ -112,7 +115,9 @@
       ":name": "sw-projects"
     },
   "production": {
-    ":items": {
+    ":items": {"id":{
+      "type":"line"
+  },
         "tituloProyecto":{
           ":type":"line"
         },
@@ -151,7 +156,9 @@
       ":name": "prod-projects"
   },
   "public-broadcasting": {
-    ":items": {
+    ":items": {"id":{
+      "type":"line"
+  },
         "tituloProyecto":{
           ":type":"line"
         },
