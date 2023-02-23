@@ -27,7 +27,7 @@
       ":type": "line"
     },
     "text": {
-      ":type": "line",
+      ":type": "text",
       ":richtext": true,
       ":name": "text"
     },
@@ -49,7 +49,7 @@
       }
     },
     "text": {
-      ":type": "line",
+      ":type": "text",
       ":richtext": true,
       ":name": "text"
     },
@@ -63,7 +63,7 @@
       ":type": "line"
     },
     "text": {
-      ":type": "line",
+      ":type": "text",
       ":richtext": true,
       ":name": "text"
     },
@@ -84,12 +84,12 @@
         ":type":"line"
       }, 
         "sinopsis": {
-          ":type": "line",
+          ":type": "text",
           ":richtext": true,
           ":name": "sinopsis"
         },
         "ficha": {
-          ":type": "line",
+          ":type": "text",
           ":richtext": true,
           ":name": "ficha"
         },
@@ -128,12 +128,12 @@
           ":type":"line"
         },
         "sinopsis": {
-          ":type": "line",
+          ":type": "text",
           ":richtext": true,
           ":name": "sinopsis"
         },
         "ficha": {
-          ":type": "line",
+          ":type": "text",
           ":richtext": true,
           ":name": "ficha"
         },
@@ -172,12 +172,12 @@
           ":type":"line"
         },
         "sinopsis": {
-          ":type": "line",
+          ":type": "text",
           ":richtext": true,
           ":name": "sinopsis"
         },
         "ficha": {
-          ":type": "line",
+          ":type": "text",
           ":richtext": true,
           ":name": "ficha"
         },
